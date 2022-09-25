@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/snitter/static/css/main.0ca37781.css",
-    "main.js": "/snitter/static/js/main.43207225.js",
+    "main.css": "/snitter/static/css/main.aee3698d.css",
+    "main.js": "/snitter/static/js/main.f116ce70.js",
     "index.html": "/snitter/index.html",
-    "main.0ca37781.css.map": "/snitter/static/css/main.0ca37781.css.map",
-    "main.43207225.js.map": "/snitter/static/js/main.43207225.js.map"
+    "main.aee3698d.css.map": "/snitter/static/css/main.aee3698d.css.map",
+    "main.f116ce70.js.map": "/snitter/static/js/main.f116ce70.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ca37781.css",
-    "static/js/main.43207225.js"
+    "static/css/main.aee3698d.css",
+    "static/js/main.f116ce70.js"
   ]
 }
