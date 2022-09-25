@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snitter/static/css/main.0ca37781.css",
+    "main.js": "/snitter/static/js/main.43207225.js",
+    "index.html": "/snitter/index.html",
+    "main.0ca37781.css.map": "/snitter/static/css/main.0ca37781.css.map",
+    "main.43207225.js.map": "/snitter/static/js/main.43207225.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca37781.css",
+    "static/js/main.43207225.js"
+  ]
+}
